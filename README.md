@@ -1,6 +1,10 @@
-[![npm](https://img.shields.io/npm/v/matchmedia-polyfill.svg)](https://npmjs.com/package/matchmedia-polyfill)
+[![npm](https://img.shields.io/npm/v/match-media-polyfill.svg)](https://npmjs.com/package/match-media-polyfill)
 
 # matchMedia() polyfill
+
+> This fork of the matchMedia polyfill was created for the sole reason of 
+publishing the latest version to npm (see [issue #82](paulirish/matchMedia.js/issues/82)
+in the original repository). It will be deprecated once the issue is resolved.
 
 ## test whether a CSS media type or media query applies
 
